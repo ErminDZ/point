@@ -21,7 +21,7 @@ public class Point {
         this.y = y;
     }
 
-    @Id
+
     public Long getId() {
         return id;
     }
